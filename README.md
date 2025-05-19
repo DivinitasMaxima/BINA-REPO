@@ -1,2 +1,0 @@
-# BINA-REPO
-BINA
